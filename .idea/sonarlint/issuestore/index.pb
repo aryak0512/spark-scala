@@ -1,10 +1,6 @@
 
-I
-src/main/scala/main.scala,f/5/f5e4d4e231418b789b9ee656d552344bce983527
 9
 	build.sbt,7/4/74b95601c3a6d9d565cd312fac64094ec0f9d847
-H
-src/main/scala/exm.scala,9/b/9be0e72448a36fbdbf232bb192698c5ce1a431e9
 H
 src/main/scala/App.scala,2/8/2881649ae0e1dd7dc1e42af3e4a1bd7e6624adb7
 @
@@ -46,3 +42,6 @@ Q.idea/sonarlint/securityhotspotstore/2/8/2881649ae0e1dd7dc1e42af3e4a1bd7e6624ad
 Q.idea/sonarlint/securityhotspotstore/7/3/7330e4252652b61093498eabc26c3cadee5d89b7,1/8/18eb9f50793c5bed3e141667574750e7e0112d22
 T
 $.idea/codeStyles/codeStyleConfig.xml,d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba
+:
+
+spark.conf,2/4/24944b12b0007083e324611e5e9fb2f3a1c8fada
